@@ -1,0 +1,29 @@
+# Obsidian (personal config, don't share)
+.obsidian/
+.obsidian.vimrc
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor
+.vscode/
+*.swp
+*.swo
+*~
+
+# Local audit outputs (sensitive)
+mac_audit_*.txt
+audit_baselines/
+*.log
+
+# Secrets just in case
+.env
+.env.local
+*.key
+*.pem
+
+# Scratch
+scratch/
+tmp/
