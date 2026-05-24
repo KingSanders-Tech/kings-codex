@@ -9,7 +9,7 @@ I was learning nmap and Wireshark on a friend's wifi with his explicit verbal pe
 1. Default-looking credentials sitting in the HTML source as an "example": `admin/000000`
 2. Firmware so old it still required ActiveX, which dates it to roughly the 2014-2018 era
 
-My friend's reaction: "Try to log in. If you can get in, I'll call the company."
+My friend's reaction: "log in, I don't really care I trust you."
 
 The right answer was no. This document is why.
 
